@@ -1,0 +1,23 @@
+{
+  "name": "angular_route_project",
+  "version": "1.0.0",
+  "description": "This is my first angular route project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiltywaree/angular_route_project.git"
+  },
+  "author": "Apil Tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apiltywaree/angular_route_project/issues"
+  },
+  "homepage": "https://github.com/apiltywaree/angular_route_project#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8"
+  }
+}
